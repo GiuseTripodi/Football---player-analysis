@@ -2,7 +2,7 @@
 
 The purpose of this analysis is to explore the player from the top European competition in order to find useful information that could be used to compare, recommend or evaluate a player.
 
-They were considered the players who play in: <i> Serie A (Italy), Ligue 1 (France), Premier League (England), La Liga (Spain). </i> The dataset have been taken from https://fbref.com/en/.
+We have considered players who play in: <i> Serie A (Italy), Ligue 1 (France), Premier League (England), La Liga (Spain). </i> The datasets were taken from https://fbref.com/en/.
 
 The project is organized in two Jupyter notebook in which are done different type of analysis:
 
