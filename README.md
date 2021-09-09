@@ -1,6 +1,6 @@
 <h2> Quick Summary </h2>
 
-The purpose of this analysis is to explore the player from the top European competition in order to find useful information that could be used to compare, recommend or evaluate a player.
+The purpose of this analysis is to explore the players from the top European competition in order to find useful information that could be used to compare, recommend or evaluate a player.
 
 We have considered players who play in: <i> Serie A (Italy), Ligue 1 (France), Premier League (England), La Liga (Spain). </i> The datasets were taken from https://fbref.com/en/.
 
